@@ -1,4 +1,7 @@
+# Search engines and AI crawlers are welcome. A plain-text summary for language models is at /llms.txt.
 User-agent: *
 Allow: /
 
+Sitemap: https://sepd0x.github.io/sitemap.xml
 Sitemap: https://sepd0x.github.io/cs2-ip-changer/sitemap.xml
+Sitemap: https://sepd0x.github.io/cs2-ip-changer/sitemap.txt

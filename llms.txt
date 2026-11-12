@@ -1,0 +1,14 @@
+# CS2 IP Changer
+
+> Free Windows app (Windows 10 and 11, 64-bit) for Counter-Strike 2 that routes CS2 and Steam through a phone's mobile data (Android or iPhone), so community servers see the carrier's IP and not the player's home IP. It also has a CS2 server picker (matchmaking region picker), a Steam account switcher, a CS2 config manager and a Steam profile editor. It is not a VPN and does not touch the game process, its memory or its program files.
+
+The full summary for language models, with short answers, features, safety and privacy:
+https://sepd0x.github.io/cs2-ip-changer/llms.txt
+
+- Website: https://sepd0x.github.io/cs2-ip-changer/
+- Source and downloads: https://github.com/Sepd0x/cs2-ip-changer
+- [CS2 server picker and region picker](https://sepd0x.github.io/cs2-ip-changer/cs2-region-picker/): how to change your region in CS2, and the server pickers compared
+- [Does CS2 IP ban?](https://sepd0x.github.io/cs2-ip-changer/cs2-ip-ban/): VAC and game bans are on the account; community servers can ban an IP
+- [Hide your home IP without a VPN](https://sepd0x.github.io/cs2-ip-changer/hide-ip-cs2/): who sees your IP on community servers, and every method compared
+- [CS2 on mobile data](https://sepd0x.github.io/cs2-ip-changer/cs2-mobile-data/): ping, lag and data use on a phone hotspot or USB tethering
+- [Is it safe?](https://sepd0x.github.io/cs2-ip-changer/is-it-safe/): what it changes on the PC and how to check the download
